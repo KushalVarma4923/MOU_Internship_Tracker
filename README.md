@@ -1,0 +1,1 @@
+A user-friendly web application for automated MOU data management, enabling secure entry, retrieval, tracking, and notification of MOU information using Excel-based storage without the use of a traditional database system.
